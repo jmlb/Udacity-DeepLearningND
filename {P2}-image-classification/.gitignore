@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.gz
+*.p
+cifar-10-batches-py
+image_classification.index.tempstate1318847966559457779
+image_classification.meta.tmp6ad3cfaaccbe44fc92c581bd50065eb0
+image_classification.meta.tmp40c3d8198e364b3cac18de5cf03cb629
+image_classification.meta.tmp76fd8133a0634a5ebdeeff664f126ac1
+image_classification.meta.tmpbd0dfb8b7db841c1819c6aa43833da30
